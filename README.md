@@ -1,5 +1,5 @@
 # Bandit Girl
 novel.
 
-# LICENSE
+## LICENSE
 © 2017 babie
